@@ -1,0 +1,2 @@
+# Dentist
+Dentist(register pacient)
